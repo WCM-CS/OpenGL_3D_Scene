@@ -1,5 +1,5 @@
 # OpenGL_3D_Scene
-Note that the Saurce.cpp file is the application file storing the majority of the code. 
+Note that the Source.cpp file is the application file storing the majority of the code. 
 
 
 ![Screenshot (7) (1)](https://github.com/WCM-CS/OpenGL_3D_Scene/assets/109036545/6ffb452c-c2af-4669-a735-eaae255da65a)
